@@ -25,8 +25,7 @@ public class FixedStack implements InStack {
 			return 0;
 		}else {
 			return stack[toss --];
-		}
-		
+		}	
 	}
 
 	public int[] getStack() {

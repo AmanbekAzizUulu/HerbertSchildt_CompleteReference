@@ -8,6 +8,9 @@ public class DynamicStack implements InStack{
 		this.stack = new int[size];
 		toss = -1;
 	}
+	
+	//Реализована логика работы динамического массива
+	//при необходимости его размер увеличивается в некоторое количество раз
 	public void push(int item) {
 		if (toss == stack.length - 1) {
 			int tempArray[] = new int[stack.length * 2];
