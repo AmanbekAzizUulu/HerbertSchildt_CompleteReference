@@ -11,7 +11,7 @@ public class TestClass implements B {
 	}
 
 	public void method_3() {
-		System.out.println("Realisation of method_1 from interface \"B\"");
+		System.out.println("Realisation of method_3 from interface \"B\"");
 	}
 
 }
