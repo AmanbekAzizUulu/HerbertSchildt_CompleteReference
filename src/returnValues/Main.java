@@ -2,7 +2,6 @@ package returnValues;
 
 public class Main {
 	public static void main(String args[]) {
-		// TODO Auto-generated method stub
 		Test object_1 = new Test(2);
 		Test object_2;
 		
