@@ -1,2 +1,0 @@
-Hello world! 
-This file is changed now change_1
