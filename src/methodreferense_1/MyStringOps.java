@@ -1,4 +1,4 @@
-package methodreferense;
+package methodreferense_1;
 
 public class MyStringOps {
 	/**
