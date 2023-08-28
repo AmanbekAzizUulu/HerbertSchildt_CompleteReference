@@ -1,4 +1,4 @@
-package methodreferense_3;
+package methodreferense_2.instanceMethodReference_2;
 
 public class InstanceMethWithObjectRefDemno {
 	public static void main(String[] args) {

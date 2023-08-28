@@ -1,4 +1,4 @@
-package methodreferense_3;
+package methodreferense_2.instanceMethodReference_2;
 /**
  * Functional interface with a method that takes two reference arguments and returns a boolean result.
  * 

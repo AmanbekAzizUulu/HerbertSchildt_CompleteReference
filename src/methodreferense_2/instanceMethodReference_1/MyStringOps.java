@@ -1,4 +1,4 @@
-package methodreferense_1;
+package methodreferense_2.instanceMethodReference_1;
 
 public class MyStringOps {
 	/**
@@ -7,7 +7,7 @@ public class MyStringOps {
 	 * @param str
 	 * @return {@code str} with reversed order of characters
 	 */
-	public static String strReverse(String str) {
+	public String strReverse(String str) {
 		String result = "";
 		int	   i;
 

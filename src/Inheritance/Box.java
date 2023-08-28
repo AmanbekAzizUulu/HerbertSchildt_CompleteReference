@@ -1,5 +1,6 @@
 package Inheritance;
 
+
 public class Box {
 	double width;
 	double height;
